@@ -1,48 +1,47 @@
-<!-- HEADER BANNER USING CAPSULE-RENDER (DYNAMIC SVG) -->
+<!-- VISUAL HEADER BANNER -->
 <p align="center">
-  <img src="https://vercel.app👋&fontSize=56&animation=twinkle&fontColor=ffffff" width="100%" />
+  <img src="https://vercel.app" width="100%" />
 </p>
 
-<!-- VISITOR COUNTER & STATUS BADGES -->
+<!-- TRAFFIC TRACKER BADGE -->
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
-  <img src="https://shields.io" alt="Java Level" />
-  <img src="https://shields.io" alt="Status" />
 </p>
 
-<h1 align="center">I'm Albert, an Advanced Backend Engineer</h1>
+<h1 align="center">🧠 Computer Science + Cognitive Science @ Rutgers</h1>
+<p align="center"><b>Software Engineer & Data Solutions Developer</b> | Bridging the gap between robust machine logic and human cognition.</p>
 
 ---
 
-<!-- SIDE-BY-SIDE GRID LAYOUT (CREATIVE HTML DASHBOARD) -->
+### 💻 System.init();
+
 <table>
   <tr>
-    <!-- LEFT COLUMN: ABOUT ME -->
+    <!-- LEFT COLUMN: SYSTEM OVERVIEW -->
     <td width="55%" valign="top">
-      <h3>🚀 System.out.println("About Me");</h3>
-      <p>I specialize in building low-latency, scalable backend architectures and wrangling the JVM. I love turning complex algorithmic challenges into elegant, high-throughput microservices.</p>
+      <h3>🚀 Executive Overview</h3>
+      <p>I build high-reliability software, scalable data pipelines, and intelligent automation frameworks. My background fuses deep technical software engineering with insights into behavioral systems and data communication.</p>
       <ul>
-        <li>⚡ <b>Core Focus:</b> Multi-threading, concurrency models, and memory optimization.</li>
-        <li>🌱 <b>Learning Engine:</b> High-performance distributed ledger systems.</li>
-        <li>🧩 <b>Philosophy:</b> "Clean code always reads like well-written prose."</li>
+        <li>🎓 <b>Education:</b> B.S. in Computer Science & B.A. in Cognitive Science | Rutgers University</li>
+        <li>🌍 <b>Global View:</b> Engineered core workflows locally and internationally in France.</li>
+        <li>💬 <b>Languages:</b> Fluent in English; Conversationally proficient in Malayalam.</li>
       </ul>
     </td>
     
-    <!-- RIGHT COLUMN: INTERACTIVE CODE BOX -->
+    <!-- RIGHT COLUMN: COMPILE-READY PROFILE OBJECT -->
     <td width="45%" valign="top">
-      <h3>🤖 Developer.java</h3>
-```java
-public class Engineer {
-    public static void main(String[] args) {
-        String role = "Backend Architect";
-        String fuel = "Coffee && Logic";
-        boolean debugging = true;
-        
-        while (debugging) {
-            System.out.println("Optimize execution.");
-        }
-    }
-}
+      <h3>⚙️ Runtime_State.py</h3>
+```python
+class AlbertSebastian:
+    def __init__(self):
+        self.code = ["Python", "Java", "SQL", "Kotlin", "C++"]
+        self.focus = ["CI/CD Automation", "Data Analytics"]
+        self.interests = ["Astronomy", "PL", "Hiking", "Anime"]
+
+    def current_status(self):
+        return "Initializing open-source repositories..."
+
+print(AlbertSebastian().current_status())
 ```
     </td>
   </tr>
@@ -50,40 +49,80 @@ public class Engineer {
 
 ---
 
-### 🧰 Tech Stack & Infrastructure Ecosystem
+### 📂 Professional Execution History
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <!-- DevOps & Tools -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+<details>
+<summary><b>💼 Project Management Intern – Data & Digital Experience @ Sanofi</b></summary>
+<br>
+<ul>
+  <li>Built interactive <b>Power BI</b> and <b>Tableau</b> analytics dashboards to optimize cross-functional ERG decision-making frameworks.</li>
+  <li>Enhanced enterprise UI and system accessibility by managing high-traffic SharePoint infrastructure.</li>
+  <li>Applied agile design methodology to ship digital projects within global corporate environments.</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🛠️ Software Engineer in Test Intern @ EUROFIDAI (Grenoble, France)</b></summary>
+<br>
+<ul>
+  <li>Architected automated <b>CI/CD pipelines</b> integrating Python, Jenkins, and Git to streamline development lifecycles.</li>
+  <li>Deployed comprehensive end-to-end web browser automation scripts via <b>Selenium</b> to maximize core financial database reliability.</li>
+  <li>Collaborated natively with distributed core engineering squads to troubleshoot, isolate, and debug complex runtime regressions.</li>
+</ul>
+</details>
+
+<details>
+<summary><b>📱 Mobile Developer & Assistant @ RUMAD / Take Care Pharmacy</b></summary>
+<br>
+<ul>
+  <li><b>Pet Plan App (Kotlin/Firebase):</b> Co-designed full-stack architecture, ranking in the <b>top 3</b> of all semester club projects.</li>
+  <li><b>Data Operations:</b> Managed an active infrastructure database containing over 250+ clients, optimizing transaction speed.</li>
+</ul>
+</details>
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### 🧰 Technical Infrastructure
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180" src="https://vercel.app" />
-  <!-- Most Used Languages Card -->
-  <img height="180" src="https://vercel.app" />
-</p>
-
-<p align="center">
-  <!-- Contribution Streak Tracker -->
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>⚡ Languages</b><br>
+      • Python / Java<br>
+      • JavaScript / Kotlin<br>
+      • C++ / C / R<br>
+      • SQL / NoSQL
+    </td>
+    <td width="33%" valign="top">
+      <b>🛠️ Tools & Frameworks</b><br>
+      • Node.js / React<br>
+      • Firebase / APIs<br>
+      • Power BI / Tableau<br>
+      • SharePoint
+    </td>
+    <td width="34%" valign="top">
+      <b>🔄 Practices & DevOps</b><br>
+      • CI/CD (Jenkins / Git)<br>
+      • Automated Testing (Selenium)<br>
+      • Object-Oriented Design<br>
+      • Agile / TDD Workflow
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📬 Let's Connect & Collaborate!
+### 📬 Network Handshake
 
 <p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+  <a href="mailto:albertseb03@gmail.com">
+    <img src="https://shields.io" />
+  </a>
+</p>
+
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" />
   </a>
